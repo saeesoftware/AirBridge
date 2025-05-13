@@ -6,7 +6,7 @@
   # _Send it_, with [PairDrop](https://pairdrop.net)
 
   <p>
-    Local file sharing <a href="https://pairdrop.net"><strong>in your web browser</strong></a>. 
+    Local file sharing <a href="https://airbridge.saeesoft.com/"><strong>in your web browser</strong></a>. 
     <br>
     Inspired by Apple's AirDrop.
     <br> 
