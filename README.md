@@ -13,9 +13,9 @@
     Fork of Snapdrop.
     <br>
     <br>
-    <a href="https://github.com/schlagmichdoch/PairDrop/issues">Report a bug</a>
+    <a href="https://github.com/saeesoftware/AirBridge/issues">Report a bug</a>
     <br />
-    <a href="https://github.com/schlagmichdoch/PairDrop/issues">Request feature</a>
+    <a href="https://github.com/saeesoftware/AirBridge/issues">Request feature</a>
   </p>
 </div>
 <br>
@@ -36,7 +36,7 @@ Send a file from your phone to your laptop?
 
 <img src="docs/pairdrop_screenshot_mobile.gif" alt="Screenshot GIF showing PairDrop in use" style="width: 300px">
 
-## Differences to the [Snapdrop](https://github.com/RobinLinus/snapdrop) it is based on
+## Differences to the [Snapdrop](https://github.com/saeesoftware/AirBridge) it is based on
 <details><summary>View all differences</summary>
 
 ### Paired Devices and Public Rooms — Internet Transfer
